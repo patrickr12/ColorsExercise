@@ -1,0 +1,56 @@
+h1 {
+    color: #ffffff;
+    background-color:#ff0000;
+}
+
+h2 {
+    color: #0f0;
+    background-color:orange;
+}
+
+h3 {
+    color: rgb(255,0,0);
+    background-color: yellow;
+}
+
+h4 {
+    color: rgba(145,200 ,70,0.7);
+    background-color:rgba(70,224,101,0.259);
+}
+
+h5{
+    color: maroon;
+    background-color: blue;
+}
+
+h6{
+    color: #ff850088;
+    background-color:#4b00825c ;
+}
+
+p{
+    color: #7777;
+    background-color: #e8e8;
+}
+
+#one {
+    color: hotpink;
+}
+
+/*  ol li [id="three"]{
+background-color: peachpuff;
+}
+
+li :last-child {
+ background-color: peachpuff;
+} */
+#three {
+    background-color: peachpuff;
+}
+
+.test {
+    border: 5px solid green;
+}
+
+
+
